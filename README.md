@@ -15,7 +15,7 @@ Workshop Highlights: <br>
 ✅ Gain hands-on experience through practical exercises and projects <br>
 ✅ Network with fellow data enthusiasts and build your data science  community
 <br>
-Workshop Organizers:
+Workshop Organizers:<br>
 ◾Uzair Sarfraz, GDSC Lead <br>
 ◾Khubaib Ahsan, Co-Lead <br>
 ◾Zubair Jameel, Outreach Lead <br>
