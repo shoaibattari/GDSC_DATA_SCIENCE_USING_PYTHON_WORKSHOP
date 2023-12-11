@@ -14,7 +14,7 @@ Workshop Highlights: <br>
 ✅ Explore data visualization techniques using Matplotlib and Seaborn <br>
 ✅ Gain hands-on experience through practical exercises and projects <br>
 ✅ Network with fellow data enthusiasts and build your data science  community
-<br>
+<br><br>
 Workshop Organizers:<br>
 ◾Uzair Sarfraz, GDSC Lead <br>
 ◾Khubaib Ahsan, Co-Lead <br>
