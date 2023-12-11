@@ -8,7 +8,7 @@
 
 Google Developers Club at UET New Campus presents a captivating workshop on Data Science using Python. Led by expert speakers Abdul Mughni and Hamza Atif, this session will equip you with the essential knowledge and skills to become a data science pro.
 
-Workshop Highlights:
+Workshop Highlights: <br>
 ✅ Learn the fundamentals of Python programming for data science <br>
 ✅ Discover powerful data analysis libraries like NumPy and Pandas <br>
 ✅ Explore data visualization techniques using Matplotlib and Seaborn <br>
